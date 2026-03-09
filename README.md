@@ -1,8 +1,6 @@
 # Urban-Aware Heat Safety: A Physics-Informed ML Approach
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/YOUR_FILE.ipynb)
-
-> **Note:** To use the interactive sliders and view the heat-safety dashboard, please click the "Open in Colab" button above. GitHub's static preview does not support interactive widgets.
+> **Note:** To use the interactive sliders and view the heat-safety dashboard, please clone the repository or download the `.ipynb` file directly. GitHub's static preview does not support interactive widgets.
 
 This project implements a **Physics-Informed Neural Network (PINN)** to estimate the Wet Bulb Globe Temperature (WBGT) in urban microclimates. By embedding the **Steady-State Energy Balance Equation** directly into the neural network's loss function, the model provides physically consistent heat risk assessments.
 
