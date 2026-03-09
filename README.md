@@ -17,6 +17,6 @@ Unlike "black-box" ML, this system is penalized if its predictions violate the S
 - **Synthetic Data Pipeline:** A physics-based simulator for generating ground-truth thermal data.
 
 ## How to Use
-1. Open the `Heat_Safety_PINN.ipynb` in Google Colab.
+1. Open the `urban_heat_safety_pinn.ipynb` in Google Colab.
 2. Run the cells to train the model.
 3. Use the interactive sliders at the bottom to simulate different weather scenarios.
